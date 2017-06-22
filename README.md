@@ -6,7 +6,7 @@ This Aes Class is using OpenSSL Extention of PHP.
 When you are ready to use this class,
 You may check your OpenSSL extention is avaliable.
 
-##check
+## check
 * Check your php extention and find OpenSSL.
 `php -m | grep openssl` 
 * if you are not find, you'd better build this extention.
