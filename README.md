@@ -29,3 +29,9 @@ echo $encrypt . PHP_EOL;
 echo $aes->decrypt( $encrypt ) . PHP_EOL;
 //output : star zmisgod
 ```
+
+## contact
+
+<a href="https://zmis.me">zmis.me</a>
+
+<a href="http://weibo.com/zmisgod">@zmisgod</a>
