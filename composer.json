@@ -11,7 +11,9 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {},
+    "require": {
+        "ext-openssl": "*"
+    },
     "autoload": {
         "psr-4": {
             "SimpleAes\\": "src/"

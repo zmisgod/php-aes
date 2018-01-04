@@ -14,9 +14,6 @@ class Aes
 
 	public function __construct()
 	{
-		if(!extension_loaded('openssl')) {
-			throw new \Exception("sorry you should install OpenSSL extension first!");
-		}
 		$this->key = base64_encode( '1234567890qwertyuiopasdf' );
 		$this->iv  = base64_encode( 'qwertyuiopasdfgh' );
 	}
