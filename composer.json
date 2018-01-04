@@ -1,0 +1,20 @@
+{
+    "name": "zmisgod/php-aes",
+    "description": "Encryption and decryption using asymmetric cryptography (using PHP OpenSSL extention)",
+    "type": "libary",
+    "keywords": ["aes", "encryption", "decryption", "php"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zmisgod",
+            "email": "starzmisgod@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SimpleAes\\": "src/"
+        }
+    }
+}
