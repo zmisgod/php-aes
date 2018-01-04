@@ -10,9 +10,11 @@ This Aes Class using OpenSSL extension of PHP.
 
 `php -m | grep openssl` 
 
-## usage
+## install
 
 `composer require zmisgod/php-aes`
+
+## usage
 
 Here is a example
 
