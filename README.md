@@ -12,7 +12,9 @@ This Aes Class using OpenSSL extension of PHP.
 
 ## install
 
-`composer require zmisgod/php-aes`
+```
+composer require zmisgod/php-aes
+```
 
 ## usage
 
